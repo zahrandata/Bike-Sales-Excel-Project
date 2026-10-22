@@ -1,13 +1,17 @@
-# Bike Sales Data Analysis & Interactive Dashboard
+# Bike sales data analysis & interactive excel dashboard
 
-This project analyzes customer demographic data to uncover key patterns and drivers behind bike purchases using Microsoft Excel.
+## Workbook overview & structure
 
-## Workbook Structure
+This workbook contains 4 sheets about the bike sales dataset:
 
-* **Raw Data:** The original, unedited dataset.
-* **Clean Data:** Processed dataset after removing duplicates, standardizing entries, and handling missing values.
-* **Pivot Tables & Charts:** Dedicated sheet containing summary statistics, pivot tables, and corresponding visualizations.
-* **Interactive Dashboard:** Complete executive dashboard equipped with interactive slicers and filters for context-specific data analysis.
+* **Bike_Buyers_Original_Dataset**
+  Raw, unedited customer dataset.
 
-## Key Insights
-* Insert 2-3 key takeaways here (e.g., impact of commute distance, income, or age on purchase decisions).
+* **Working_Sheet_Clean_Dataset**
+  Cleaned dataset with removed duplicates, standardized labels, and an added Age Brackets column.
+
+* **Pivot_Table**
+  Summary tables and charts analyzing income, commute distance, age, and occupation vs. bike purchases.
+
+* **Dashboard**
+  Interactive dashboard with visualizations and slicers (Marital Status, Region, Education, Homeowner) for dynamic filtering.
