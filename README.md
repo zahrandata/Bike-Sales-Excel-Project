@@ -1,4 +1,4 @@
-# Bike Sales Data Analysis & interactive Dashboard Excel Project
+# Bike Sales Data Analysis & Interactive Dashboard Excel Project
 
 ## Workbook overview & structure
 
