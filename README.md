@@ -5,7 +5,7 @@
 This workbook contains 4 sheets about the bike sales dataset:
 
 * **Bike_Buyers_Original_Dataset**
-  Raw, unedited customer dataset.
+  Raw, unedited dataset.
 
 * **Working_Sheet_Clean_Dataset**
   Cleaned dataset with removed duplicates, standardized labels, and an added Age Brackets column.
